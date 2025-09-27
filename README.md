@@ -1,4 +1,6 @@
 ## Hi there 👋
+## 🔧 Мои Skills:
+- Telegram, pyrogram
 
 <!--
 **Kizarwk/Kizarwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
