@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 🔧 Мои Skills:
+## 🔧 Мои Hard Skills:
 - Telegram, pyrogram
 
 <!--
