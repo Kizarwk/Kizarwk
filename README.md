@@ -1,6 +1,6 @@
 ## Hi there 👋
-## 🔧 Мои Hard Skills:
-- Telegram, pyrogram, WEB
+## 🔧 My Hard Skills:
+- GDScript, Lua, Python
 
 <!--
 **Kizarwk/Kizarwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
